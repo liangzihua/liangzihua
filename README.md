@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liangzihua
 - 👀 I’m interested in SAP ABAP
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning BTP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
